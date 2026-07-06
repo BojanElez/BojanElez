@@ -36,6 +36,7 @@ Over the years I've worked on products in **Wealth Management, Transportation, S
 * Jest • React Testing Library
 * Docker • GitHub Actions • AWS
 * Webpack • Vite
+* AWS
 
 ### 🌱 Currently Learning
 
